@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.info
   - DOMAIN-SUFFIX,binancecnt.com
   - DOMAIN-SUFFIX,binancefuture.com
   - DOMAIN-SUFFIX,bnappzh.co
@@ -25,5 +26,7 @@ payload:
   - DOMAIN-SUFFIX,bnbzh.ac
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,saasexch.cc
+  - DOMAIN-SUFFIX,saasexch.info
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,redotpay.com
+  - DOMAIN,api.redotpay.com
